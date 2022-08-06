@@ -88,7 +88,7 @@ body{
 .menu-lr{
     position: absolute;
     width: 60%;
-    height: 100vh;
+    min-height: 100vh;
     padding: 0rem 2rem ;
     top: 0;
     right: 0;
@@ -116,7 +116,7 @@ body{
 .option a{
     text-decoration: none;
     display: block;
-    padding: 8px 0;
+    padding: 6px 0;
     color: var(--medium-gray-color);
     font-size: 1rempx;
 }
