@@ -287,7 +287,7 @@ body{
     justify-content: space-between;
     align-items: center;
     width: 80%;
-    height: var(--header-heigth);
+    min-height: var(--header-heigth);
     padding: 0rem 0rem ;
     background-color: transparent;
     opacity: 1;
